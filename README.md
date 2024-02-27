@@ -1,6 +1,9 @@
 ### Hi there 👋
 #### welcome to my GitHub repository!
 ![ashif's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashif57&theme=dark&show_icons=true&&hide=issues,contribs)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashif57&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashif57&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ### languages known:
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
 ### software known to use:
