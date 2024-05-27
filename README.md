@@ -8,10 +8,9 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
 
 ### libraries worked:
-![image](https://github.com/ashif57/ashif57/assets/120772978/6c864b16-0a33-47be-b057-e683ddfa5fd5)
-![image](https://github.com/ashif57/ashif57/assets/120772978/62370a0c-f07b-42e3-8e7d-95ffac05f315)
-![image](https://github.com/ashif57/ashif57/assets/120772978/0bb4209f-52be-4779-9540-1ce728f639b0)
-![image](https://github.com/ashif57/ashif57/assets/120772978/98a0babf-a162-4e6d-9605-3d71dfa6f949)
+<img height="50" width="50" src="[https://img.icons8.com/color/48/000000/python.png](https://github.com/ashif57/ashif57/assets/120772978/a1ce0ac3-608d-4ea1-b460-0cfb649a2ad1)" />
+
+
 
 
 
