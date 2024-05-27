@@ -7,14 +7,16 @@
 ### languages known:
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
 
-### libraries worked:
-<img height="50" width="50" src="[https://img.icons8.com/color/48/000000/python.png](https://github.com/ashif57/ashif57/assets/120772978/a1ce0ac3-608d-4ea1-b460-0cfb649a2ad1)" />
-
-
-
+### libraries familier with:
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
 
 ### software known to use:
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img width="48" height="48" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1"/><img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/canva-app.png" alt="canva-app"/>
+
+![](https://github-contributor-stats.vercel.app/api?username=ashif57&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
