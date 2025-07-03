@@ -1,30 +1,51 @@
-### Hi there 👋
-#### welcome to my GitHub repository!
-![ashif's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashif57&theme=dark&show_icons=true&&hide=issues,contribs)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashif57&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashif57&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-### language proficient with:
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+# Hello, I'm Ashif 👨‍💻
 
-### language with foundational knowledge:
+Welcome to my GitHub! I'm a passionate and self-driven developer with a focus on **Python**, **backend development**, and **AI/ML integration**. I enjoy building projects that solve real-world problems and showcase clean, scalable code.
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+---
 
-### libraries familier with:
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
-![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg)
+## 🛠️ Tech Stack
 
+### 👨‍💻 Languages I Use
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+- ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
+### 🧠 Libraries & Frameworks
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+- ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+- ![Matplotlib](https://img.shields.io/badge/-Matplotlib-20232A?logo=matplotlib&logoColor=white&style=flat)
+- ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 
+### 🧰 Tools & IDEs
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+- ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=adobe-premiere-pro&logoColor=white&style=flat)
+- ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 
-### softwares known to use:
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img width="48" height="48" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1"/><img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/canva-app.png" alt="canva-app"/>
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=13674&format=png&color=000000"/>
+---
 
-![](https://github-contributor-stats.vercel.app/api?username=ashif57&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔥 GitHub Stats
 
+![Ashif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashif57&theme=dark&show_icons=true&hide=issues,contribs)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashif57&theme=gotham)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashif57&theme=gotham&layout=compact)
+
+![GitHub Contribution Graph](https://github-contributor-stats.vercel.app/api?username=ashif57&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ashifnavheed57/)
+- Portfolio: [yourportfolio.com](https://ashif57.github.io/portofolio/)
+- Email: ashifnavheed@gmail.com
+
+---
+
+> 🚀 Always learning. Always building.
