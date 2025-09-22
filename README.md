@@ -40,7 +40,7 @@ Welcome to my GitHub! I'm a passionate and self-driven developer with a focus on
 ## 📫 Connect With Me
 
 - LinkedIn: [linkedin.com](https://www.linkedin.com/in/ashifnavheed57/)
-- Portfolio: [myportfolio.com](https://ashif57.github.io/portofolio/)
+- Portfolio: [myportfolio.com](https://ashif57.github.io/portfolio/)
 - Email: ashifnavheed@gmail.com
 
 ---
