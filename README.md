@@ -10,17 +10,17 @@ I love working with **cloud technologies, automation, containerization, and AI/M
 ## 🚀 Tech Stack
 
 ### 🧑‍💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat)
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+
 
 ---
 
 ## ⚙️ Backend & Frameworks
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?logo=django&logoColor=white&style=flat)
+- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+- ![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?logo=django&logoColor=white&style=flat)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
