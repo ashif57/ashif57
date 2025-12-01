@@ -10,23 +10,20 @@ I love working with **cloud technologies, automation, containerization, and AI/M
 ## 🚀 Tech Stack
 
 ### 🧑‍💻 Programming Languages
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
-
----
 
 ## ⚙️ Backend & Frameworks
-- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-- ![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?logo=django&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?logo=django&logoColor=white&style=flat)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
 ![REST](https://img.shields.io/badge/-REST%20API-005571?style=flat)
 
----
 
 ## 🎨 Frontend & UI
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
@@ -35,7 +32,6 @@ I love working with **cloud technologies, automation, containerization, and AI/M
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
----
 
 ## 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
@@ -43,7 +39,6 @@ I love working with **cloud technologies, automation, containerization, and AI/M
 ![SQLite](https://img.shields.io/badge/-SQLite-07405E?logo=sqlite&logoColor=white&style=flat)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat)
 
----
 ## 🐳 DevOps, Cloud & CI/CD
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
@@ -53,7 +48,6 @@ I love working with **cloud technologies, automation, containerization, and AI/M
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=flat)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black&style=flat)
 
----
 
 ## 🧰 Tools & IDEs
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
